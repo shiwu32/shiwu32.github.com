@@ -22,5 +22,5 @@
 
   
 
-[GitHub](https://github.com/shiwu/kubernetes.git)
+[GitHub](https://github.com/tdlinux/tdlinux.git)
 [Get Started](README.md)
