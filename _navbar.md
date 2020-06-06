@@ -6,3 +6,5 @@
   * [Ansible](ansible.md)
 * [云服务](cloud/ops.md)
 * [安全](safe/ops.md)
+* [其他](other/ops.md)
+  * [Git](other/git.md)
