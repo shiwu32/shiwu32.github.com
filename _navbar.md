@@ -1,0 +1,8 @@
+* [DevOps](devops/ops.md)
+  * [Docker](devops/docker.md)
+  * [Kubernetes](devops/kubernetes.md)
+  * [CI/CD](cicd.md)
+* [自动化](auto/ops.md)
+  * [Ansible](ansible.md)
+* [云服务](cloud/ops.md)
+* [安全](safe/ops.md)
