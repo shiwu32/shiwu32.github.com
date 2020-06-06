@@ -42,3 +42,19 @@ git remote add origin [url]
 3.直接修改config文件
 ```
 
+
+
+Gitee pages
+
+```
+username.gitee.io
+创建仓库时仓库名和用户名一致即可
+```
+
+Gibhub pages
+
+```
+username.github.io
+# 创建仓库用username.github.com
+```
+
