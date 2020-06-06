@@ -17,13 +17,19 @@
         <a href="#/home1">home1</a>
         <a href="#/bar/a">bar/a</a>
     </nav> -->
-    <div id="app">始于2020年06月06日</div>
+    <div id="app">拾悟笔记</div>
 
     <script>
         window.$docsify = {
             name: '拾悟笔记',
             repo: 'https://github.com/shiwu32/shiwu32.github.com.git',
             // coverpage: true,
+            search: 'auto', // default
+            search: {
+                placeholder: '搜索',
+                noData: '找不到结果!',
+                depth: 3
+            },
             loadNavbar: true
                 // loadSidebar: true,
                 // subMaxLevel: 3,
