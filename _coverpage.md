@@ -22,5 +22,5 @@
 
   
 
-[GitHub](https://github.com/tdlinux/tdlinux.git)
+[GitHub](https://github.com/shiwu32/shiwu32.github.com.git)
 [Get Started](README.md)
