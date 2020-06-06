@@ -55,6 +55,6 @@ Gibhub pages
 
 ```
 username.github.io
-# 创建仓库用username.github.com
+# 创建仓库用username.github.com 
 ```
 
