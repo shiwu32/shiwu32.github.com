@@ -86,5 +86,24 @@ nc 容器IP 15001
 docker container run -v /root/envoy_vol:/etc/envoy/
 ```
 
-007
+007---2020-06-07
+
+#
+
+Listener
+
+- envoy.echo
+
+
+
+- ingress, service-to-service
+- egress,service-to-service
+
+基本的envoy配置模型
+
+纯静态手动定义
+
+## Cluster简易静态配置
+
+图
 
