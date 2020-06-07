@@ -267,7 +267,7 @@ kubectl get pods -n kube-system
 
 01- 安装kubeadm时报错提示？
 
-![image-20200607171942943](C:\gitbooks\docs\devops\_media\kubernetes.v1.13\image-20200607171942943.png)
+![image-20200607173211230](_media/image-20200607173211230.png)
 
 3、node节点上操作
 

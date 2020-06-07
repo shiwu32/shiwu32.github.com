@@ -3,7 +3,7 @@
 - 什么是Envoy
 - Envoy组件拓扑
 
-![image-20200607164134929](C:\gitbooks\docs\devops\_media\istio\image-20200607164134929.png)
+![image-20200607173146260](_media/image-20200607173146260.png)
 
 - Envoy xDS核心术语
   - xDS API常用术语
@@ -24,7 +24,7 @@
   - Filter
   - Cluster
 
-![image-20200607164204668](C:\gitbooks\docs\devops\_media\istio\image-20200607164204668.png)
+![image-20200607173125089](_media/image-20200607173125089.png)
 
 - Envoy线程模型和边接处理机制
   - Envoy线程模型
